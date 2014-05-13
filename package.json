@@ -1,0 +1,9 @@
+{
+  "name": "offline-demo",
+  "description": "demo for offline web app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "^4.2.0"
+  }
+}
